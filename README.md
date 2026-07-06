@@ -51,7 +51,7 @@ I'm passionate about building scalable backend systems and modern full-stack web
 
 ### 📌 Featured Projects
 
-#### 🎓 [ClassPilot](https://github.com/Ibrahim-2905)
+#### 🎓 [ClassPilot](https://github.com/ibrahim-engdev)
 Multi-tenant School Management SaaS platform with role-based access for Super Admin, School Admin, Teacher, and Parent accounts.
 - 🔐 JWT authentication with access/refresh tokens and bcrypt password hashing
 - 🏫 Multi-tenant architecture — each school runs as an isolated entity
@@ -76,8 +76,8 @@ Multi-theme e-commerce store builder that lets users browse, preview, and deploy
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-2905&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-2905&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ibrahim-engdev&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-engdev&layout=compact&hide_border=true" />
 </p>
 
 ---
