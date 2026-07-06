@@ -1,13 +1,4 @@
-## Hi there 👋[README.md](https://github.com/user-attachments/files/29690067/README.md)
-
-
-<!--
-**ibrahim-engdev/ibrahim-engdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<h1 align="center">Hi, I'm Muhammad Ibrahim 👋</h1>
+<h1 align="center">Hi, I'm Muhammad Ibrahim 👋</h1>
 <h3 align="center">Software Engineering Student | Junior Backend Developer | MERN Stack Developer</h3>
 
 <p align="center">
@@ -98,11 +89,3 @@ Multi-theme e-commerce store builder that lets users browse, preview, and deploy
 - 🌐 **Portfolio:** Coming soon
 
 <p align="center"><i>Open to Junior MERN Stack / Backend Developer opportunities 🚀</i></p>
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
